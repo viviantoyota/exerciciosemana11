@@ -1,0 +1,19 @@
+{
+  "name": "exerciciosemana11",
+  "version": "1.0.0",
+  "description": "exercicio semana 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viviantoyota/exerciciosemana11.git"
+  },
+  "author": "vivian toyota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viviantoyota/exerciciosemana11/issues"
+  },
+  "homepage": "https://github.com/viviantoyota/exerciciosemana11#readme"
+}
